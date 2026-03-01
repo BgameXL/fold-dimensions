@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[dependencies.fold_dimensions]]
+modId="forge"
+mandatory=true
+versionRange="[47.3.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.fold_dimensions]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[mods]]
+modId="fold_dimensions"
+version="1.0.0"
+displayName="Fold Dimensions"
+description='''
+A liminal geometric dimension based on instanced rooms connected by a graph of rules.
+Navigate by crossing Threshold Frames. The correct exit depends on parity, orientation,
+light stability, echo, and symmetry. Find your way to the Loom and weave a stable exit.
+    '''

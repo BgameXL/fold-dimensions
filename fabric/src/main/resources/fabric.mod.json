@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "fold_dimensions",
+  "version": "1.0.0",
+  "name": "Fold Dimensions",
+  "description": "A liminal geometric dimension based on instanced rooms connected by a graph of rules.",
+  "authors": ["yourname"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.bgame.fold.fabric.FoldFabric"
+
+
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

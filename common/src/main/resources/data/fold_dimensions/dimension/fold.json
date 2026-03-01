@@ -1,0 +1,13 @@
+{
+  "type": "fold_dimensions:fold",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [],
+      "biome": "minecraft:the_void",
+      "features": false,
+      "lakes": false,
+      "structures": { "structures": {} }
+    }
+  }
+}
